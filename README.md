@@ -3,11 +3,14 @@
   <!-- Cat typing GIF -->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="typing cat"/>
 
-  <!-- Typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Tanya+Singhal+%F0%9F%91%8B;Full-Stack+Developer+%7C+Curious+Learner+%7C+Cat+Person" alt="typing intro"/>
+  <!-- Typing intro: multi-line so nothing gets truncated -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanya+Singhal+%F0%9F%91%8B;Full-Stack+Developer;Curious+Learner+%E2%80%A2+Cat+Person"
+    alt="typing intro"
+  />
 
-  <!-- Cute badges -->
   <br/>
+  <!-- Cute badges -->
   <img src="https://img.shields.io/badge/%F0%9F%90%B1-cat%20lover-ff69b4" alt="cat lover badge"/>
   <img src="https://img.shields.io/badge/%E2%9C%A8-code%20and%20cats-ffa500" alt="code and cats badge"/>
   <img src="https://img.shields.io/badge/%F0%9F%90%BE-always%20curious-1e90ff" alt="curious badge"/>
@@ -67,18 +70,18 @@ Git • Azure • SSH • VS Code
 <div align="center">
 
   <i>“Great code is like a cat — elegant, curious, and sometimes a little mysterious.”</i>  
+
   <br/><br/>
-  <!-- ASCII Cat in pastel box -->
-  <table align="center">
-    <tr>
-      <td bgcolor="#FFE6F9">
-<pre>
- /\_/\  
-( o.o ) ~ meow
- > ^ <
-</pre>
-      </td>
-    </tr>
-  </table>
+  <!-- Sleepy cat GIF -->
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" alt="sleepy cat"/>
+
+  <br/><br/>
+
+  <!-- ASCII Cat (quote block for background) -->
+> ```
+>  /\_/\  
+> ( o.o ) ~ meow
+>  > ^ <
+> ```
 
 </div>
