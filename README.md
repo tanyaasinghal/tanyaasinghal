@@ -72,12 +72,19 @@ Git • Azure • SSH • VS Code
   <!-- Sleepy cat GIF -->
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" alt="sleepy cat"/>
 
-  <br/>
-  <!-- ASCII cat -->
-  <pre style="background-color:#ffe6f9; color:#333; padding:15px; border-radius:10px; display:inline-block;">
+  <br/><br/>
+
+  <!-- ASCII Cat in pastel box -->
+  <table align="center">
+    <tr>
+      <td bgcolor="#FFE6F9">
+<pre>
  /\_/\  
 ( o.o ) ~ meow
  > ^ <
-  </pre>
+</pre>
+      </td>
+    </tr>
+  </table>
 
 </div>
