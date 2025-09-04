@@ -69,11 +69,6 @@ Git • Azure • SSH • VS Code
   <i>“Great code is like a cat — elegant, curious, and sometimes a little mysterious.”</i>  
 
   <br/><br/>
-  <!-- Sleepy cat GIF -->
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" alt="sleepy cat"/>
-
-  <br/><br/>
-
   <!-- ASCII Cat in pastel box -->
   <table align="center">
     <tr>
