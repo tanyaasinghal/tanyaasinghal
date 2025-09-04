@@ -70,7 +70,6 @@ Git • Azure • SSH • VS Code
 <div align="center">
 
   <i>“Great code is like a cat — elegant, curious, and sometimes a little mysterious.”</i>  
-  <br/>
   <!-- ASCII Cat in pastel box -->
   <table align="center">
     <tr>
