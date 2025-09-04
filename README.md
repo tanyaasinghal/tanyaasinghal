@@ -74,10 +74,10 @@ Git • Azure • SSH • VS Code
 
   <br/>
   <!-- ASCII cat -->
-  <pre>
-   /\_/\  
-  ( o.o )  ~ meow
-   > ^ <
+  <pre style="background-color:#ffe6f9; color:#333; padding:15px; border-radius:10px; display:inline-block;">
+ /\_/\  
+( o.o ) ~ meow
+ > ^ <
   </pre>
 
 </div>
